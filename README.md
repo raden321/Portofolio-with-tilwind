@@ -59,6 +59,6 @@ Run the CLI tool to scan your template files for classes and build your CSS.
 
 ## 🔗 Links
 
-[![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raden321) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehemiagueldi/) [![portfolio](https://img.shields.io/badge/my_portfolio-0d9488?style=for-the-badge&logo=square&logoColor=white)](https://nehemiagueldi.github.io/) 
+[![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raden321) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raden-purnomo-97319b2a0/) [![portfolio](https://img.shields.io/badge/my_portfolio-0d9488?style=for-the-badge&logo=square&logoColor=white)](https://github.com/raden321/Portofolio-with-tilwind) 
 
 
