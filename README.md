@@ -1,4 +1,4 @@
-![My Image](sneakpeek.png)
+![My Image](Screen Shot 2023-12-15 at 14.49.53.png)
 # Portfolio HTML + TailwindCSS Starterpack
 
 This is a Portfolio HTML + TailwindCSS Starterpack is a pre-built template that combines the power of HTML and the flexibility of the TailwindCSS framework to create a stylish and responsive portfolio website. This is a ready-to-use website template that can help you showcase your work and skills in a visually appealing and professional manner. It's a great starting point for creating your own portfolio website without the need for extensive coding knowledge.
